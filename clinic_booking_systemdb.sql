@@ -1,3 +1,4 @@
+-- Question 1
 -- Create Database
  CREATE DATABASE clinic_booking_systemdb;
 
